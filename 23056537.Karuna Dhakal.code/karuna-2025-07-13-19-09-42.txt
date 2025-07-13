@@ -1,0 +1,13 @@
+--------------------------------------------------------------
+			 Furniture Sale Invoice
+--------------------------------------------------------------
+Customer Name: karuna
+Phone Number: 9876243567
+Date and Time of Purchase: 2025-07-13 19:09:42
+
+
+Total Amount: $1995.00
+Discount Applied: $105.00
+Shipping Cost: $50.00
+Final Amount: $2045.00
+----------------------------------------------------
